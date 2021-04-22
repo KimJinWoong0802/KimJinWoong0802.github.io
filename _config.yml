@@ -2,7 +2,7 @@ title:              2019108257 김진웅 학생의 Blog!!
 email:              0802dragon@naver.com
 description:        아 ㅋㅋㅋ 여기가 내 blog라고 ㅋㅋ
 author:             김진웅
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "/"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
