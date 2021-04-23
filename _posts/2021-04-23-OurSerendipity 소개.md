@@ -12,7 +12,8 @@ background: '/img/bg-OurSerendipityLogo.jpg'
 ## 팀명
 
 Our Serendipity
-![임시지만.. 저희 팀 로고입니다!](https://github.com/KimJinWoong0802/blog/blob/main/img/bg-OurSerendipityLogo.jpg?raw=true)
+
+![로고](https://github.com/KimJinWoong0802/blog/blob/main/img/bg-OurSerendipityLogo.jpg?raw=true)
 
 ## 팀 슬로건
 
