@@ -9,7 +9,9 @@ background: '/img/bg-OurSerendipityLogo.jpg'
 
 즐긴 게임도, 즐기고 싶은 게임도 만들고 싶은 게임도 많은 사람들이 뭉쳤다! Our Serendipity!
 
-![OurSerendipity](/img/bg-OurSerendipityLogo.jpg "아직은 임시지만..! 팀 로고입니다.")
+<figure>
+    <img src="/img/bg-OurSerendipityLogo.jpg" alt="아직은 임시지만..! 팀 로고입니다.">
+</figure>
 
 ## 팀명
 
