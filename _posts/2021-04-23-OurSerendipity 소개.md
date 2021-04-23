@@ -9,7 +9,7 @@ background: '/img/OurSerendipityLogo.jpg'
 
 즐긴 게임도, 즐기고 싶은 게임도 만들고 싶은 게임도 많은 사람들이 뭉쳤다! Our Serendipity!
 
-![OurSerendipity](\img\OurSerendipityLogo.jpg)
+![OurSerendipity](/img/OurSerendipityLogo.jpg)
 
 ## 팀명
 
