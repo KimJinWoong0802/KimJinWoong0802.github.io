@@ -5,11 +5,11 @@ date:   2021-04-14 09:00:00 +0900
 background: '/img/OurSerendipityLogo.jpg'
 ---
 
-# 2021-04-23-OurSerendipity 소개
+# OurSerendipity 소개
 
 즐긴 게임도, 즐기고 싶은 게임도 만들고 싶은 게임도 많은 사람들이 뭉쳤다! Our Serendipity!
 
-![OurSerendipity](/img/OurSerendipityLogo.jpg)
+![OurSerendipity](\img\OurSerendipityLogo.jpg)
 
 ## 팀명
 
