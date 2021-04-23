@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "가제-Project PISFLOW 소개"
+date:   2021-04-14 10:00:00 +0900
+background: '/img/Sketch.jpg'
+---
+
 # (가제)Project PISFLOW 스케치 소개
 
 ### 프로젝트 개요
@@ -40,4 +47,4 @@
 
 공개할 수 있는 건 여기까지!! 다음은 주인공의 컨셉을 준비하는 스케치입니다. 감사합니다!
 
-![Sketch](C\blog\img\Sketch.jpg)
+![Sketch](/img/Sketch.jpg)
