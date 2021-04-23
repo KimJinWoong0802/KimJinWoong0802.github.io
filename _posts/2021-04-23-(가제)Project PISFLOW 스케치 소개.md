@@ -50,3 +50,7 @@ background: '/img/bg-Sketch.jpg'
 ![주인공 스케치](https://github.com/KimJinWoong0802/blog/blob/main/img/bg-Sketch.jpg?raw=true)
 
 감사합니다!
+
+**Contact는 홈페이지의 contact 페이지나 하단의 SNS를 눌러 부탁드립니다!**
+
+**혹은 0802dragon@naver.com 으로 부탁드립니다!**
