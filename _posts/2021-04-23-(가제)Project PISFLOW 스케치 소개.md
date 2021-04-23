@@ -47,8 +47,6 @@ background: '/img/bg-Sketch.jpg'
 
 공개할 수 있는 건 여기까지!! 다음은 주인공의 컨셉을 준비하는 스케치입니다. 
 
-<figure>
-    <img src="img/bg-Sketch.jpg" alt="주인공 스케치">
-</figure>
+![주인공 스케치](https://github.com/KimJinWoong0802/blog/blob/main/img/bg-Sketch.jpg?raw=true)
 
 감사합니다!
