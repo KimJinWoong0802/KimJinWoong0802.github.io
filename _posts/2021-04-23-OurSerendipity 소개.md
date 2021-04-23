@@ -2,14 +2,14 @@
 layout: post
 title:  "OurSerendipity 소개"
 date:   2021-04-14 09:00:00 +0900
-background: '/img/OurSerendipityLogo.jpg'
+background: '/img/bg-OurSerendipityLogo.jpg'
 ---
 
 # OurSerendipity 소개
 
 즐긴 게임도, 즐기고 싶은 게임도 만들고 싶은 게임도 많은 사람들이 뭉쳤다! Our Serendipity!
 
-![OurSerendipity](/img/OurSerendipityLogo.jpg)
+![OurSerendipity](/img/bg-OurSerendipityLogo.jpg "아직은 임시지만..! 팀 로고입니다.")
 
 ## 팀명
 
