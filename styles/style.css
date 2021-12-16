@@ -1,11 +1,11 @@
 .grid {
-    width: 1600px;
+    width: 1000px;
     display: grid;
-    grid-template-columns: 20% 50%;
+    grid-template-columns: 30% 70%;
     grid-template-areas: "header header" "sidebar1 title" "sidebar1 main" "footer footer";
     grid-template-rows: 50px 100px 265px;
     gap: 15px;
-    margin: 0 auto;
+    margin: 0;
 }
 
 .grid .item {

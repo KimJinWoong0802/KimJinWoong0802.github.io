@@ -7,13 +7,12 @@ html {
 
 .wrapper {
     width: 100%;
-    perspective: 800;
 }
 
 .cube {
     position: absolute;
-    top: 160px;
-    margin: 0 auto;
+    top: -200px;
+    margin: 900px;
     height: 100px;
     width: 200px;
 
@@ -41,30 +40,30 @@ html {
 
 .one {
     transform: rotateX(90deg) translateZ(100px);
-    background-color: #E3493B;
+    background-image: url( "/images/HeartBox.jpg" );
 }
 
 .two {
     transform: translateZ(100px);
-    background-color: #23B5AF;
+    background-image: url( "/images/HeartBox.jpg" );
 }
 
 .three {
     transform: rotateY(90deg) translateZ(100px);
-    background-color: #E8487F;
+    background-image: url( "/images/HeartBox.jpg" );
 }
 
 .four {
     transform: rotateY(180deg) translateZ(100px);
-    background-color: #28B78D;
+    background-image: url( "/images/HeartBox.jpg" );
 }
 
 .five {
     transform: rotateY(-90deg) translateZ(100px);
-    background-color: #FF5B00;
+    background-image: url( "/images/HeartBox.jpg" );
 }
 
 .six {
     transform: rotateX(-90deg) translateZ(100px);
-    background-color: #FEEB51;
+    background-image: url( "/images/HeartBox.jpg" );
 }
