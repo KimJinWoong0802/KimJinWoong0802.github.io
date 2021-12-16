@@ -10,8 +10,8 @@ html {
 }
 
 .cube {
-    position: absolute;
-    top: -200px;
+    position: fixed;
+    top: -500px;
     margin: 900px;
     height: 100px;
     width: 200px;
@@ -26,11 +26,11 @@ html {
 }
 
 .cube > div {
-    position: absolute;
+    position: fixed;
     height: 200px;
     width: 200px;
     border: 1px solid #333;
-    opacity: .8;
+    opacity: 1;
 }
 
 .cube > div:hover {

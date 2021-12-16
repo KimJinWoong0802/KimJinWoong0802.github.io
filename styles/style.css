@@ -4,7 +4,7 @@
     grid-template-columns: 30% 70%;
     grid-template-areas: "header header" "sidebar1 title" "sidebar1 main" "footer footer";
     grid-template-rows: 50px 100px 265px;
-    gap: 15px;
+    gap: 5px;
     margin: 0;
 }
 
@@ -43,7 +43,7 @@
 
 .grid .footer {
     grid-area: footer;
-    height: 400px;
+    height: 350px;
     margin: 0;
     background-color: #AFEEEE;
 }
